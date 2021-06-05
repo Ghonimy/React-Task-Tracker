@@ -1,5 +1,5 @@
 # React-Task-Tracker App
-This is a React Task Tracker App that is used to remove or add a daily task which can be fetched or posted to the JSON-server as backend
+This is a React Task Tracker App that is used to remove or add a daily task which can be fetched or posted to the JSON-server as a mock backend
 
 ## Usage
 ## npm installation
